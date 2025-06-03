@@ -1,4 +1,5 @@
-1. Introduction
+1. *Introduction
+   
 1.1. Contexte du Projet
 Dans un environnement économique en constante évolution, il devient crucial pour les entreprises de comprendre leur positionnement et leurs performances par rapport au marché. Cette étude vise à fournir une vue d’ensemble de 100 entreprises opérant dans divers secteurs, à travers une analyse de leurs données clés.
 
