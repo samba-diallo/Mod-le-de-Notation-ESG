@@ -9,7 +9,7 @@ Dans un environnement économique en constante évolution, il devient crucial po
 * Identifier les tendances sectorielles et les indicateurs de performance
 * Utiliser des outils modernes de traitement et de visualisation des données pour produire des insights exploitables
 
----
+
 
 **Méthodologie**
 
@@ -34,7 +34,6 @@ Les résultats ont été visualisés à l’aide de Power BI :
 * Segmentation des entreprises par secteur, taille, et performance
 * Cartes, histogrammes, KPI, diagrammes en barres et circulaires
 
----
 
 **Analyse des Résultats**
 
@@ -59,7 +58,6 @@ Les 100 entreprises étudiées se répartissent comme suit :
 * Taux de croissance de l’emploi : +3% annuel
 * Productivité moyenne par salarié : 125 000 €
 
----
 
 **Visualisations Clés (via Power BI)**
 
@@ -69,7 +67,6 @@ Les 100 entreprises étudiées se répartissent comme suit :
 * **KPI dynamiques** : top 10 entreprises les plus rentables
 * **Courbes temporelles** : évolution du CA et de l’effectif sur 3 ans
 
----
 
 **Limites de l’Étude**
 
@@ -77,7 +74,6 @@ Les 100 entreprises étudiées se répartissent comme suit :
 * Données parfois incomplètes ou non actualisées
 * Difficultés dans l’harmonisation des formats de données entre les sources
 
----
 
 **Recommandations**
 
